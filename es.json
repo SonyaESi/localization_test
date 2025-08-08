@@ -1,0 +1,18 @@
+{
+  "navigation": {
+    "home": "Inicio",
+    "about": "Acerca de",
+    "services": "Servicios",
+    "contact": "Contacto"
+  },
+  "homepage": {
+    "hero_title": "Bienvenido a Nuestro Sitio Web",
+    "hero_subtitle": "Creamos experiencias increíbles",
+    "cta_button": "Comenzar"
+  },
+  "footer": {
+    "copyright": "© 2024 Tu Empresa. Todos los derechos reservados.",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio"
+  }
+}
