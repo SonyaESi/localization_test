@@ -1,9 +1,12 @@
 {
   "navigation": {
-    "home": "Home",
-    "about": "About",
-    "services": "Services",
-    "contact": "Contact"
+    "home": "EinStrong",
+    "climate": "ESi Climate",
+    "humanity": "ESi Humanity",
+    "esi_mom": "ESi Mom",
+    "what_is_esi": "What is ESi",
+    "catchphrase": "The Power of One",
+    "company": "2025 EinStrong Foundation"
   },
   "homepage": {
     "hero_title": "One world - One ID - One future",
