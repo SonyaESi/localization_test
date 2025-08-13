@@ -1,18 +1,20 @@
 {
   "navigation": {
-    "home": "Accueil",
-    "about": "À propos",
-    "services": "Services",
-    "contact": "Contact"
+    "home": "EinStrong",
+    "climate": "ESi Climat",
+    "humanity": "ESi Humanité",
+    "esi_mom": "ESi Maman",
+    "what_is_esi": "Qu'est-ce que l'ESi",
+    "catchphrase": "La Puissance d'Un",
+    "company": "Fondation EinStrong 2025"
   },
   "homepage": {
-    "hero_title": "Bienvenue sur notre site Web",
-    "hero_subtitle": "Nous créons des expériences incroyables",
-    "cta_button": "Commencer"
+    "hero_title": "Un monde - Un ID - Un avenir",
+    "hero_subtitle": "Imaginez un monde connecté par une seule identification globale : une identification pour chaque personne sur Terre, unie pour relever nos plus grands défis. \nUn identifiant universel EinStrong (ESi) nous donne à tous le pouvoir de lutter contre le changement climatique et d’éradiquer la pauvreté ensemble. \nTéléchargez l’application ESi ci-dessous et transformez la Puissance d’Un en la puissance pour tous."
   },
   "footer": {
-    "copyright": "© 2024 Votre entreprise. Tous droits réservés.",
-    "privacy": "Politique de confidentialité",
-    "terms": "Conditions d'utilisation"
+    "copyright": "© 2024 Votre Entreprise. Tous droits réservés.",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Conditions d’Utilisation"
   }
 }
