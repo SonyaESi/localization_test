@@ -1,0 +1,287 @@
+{
+  "nav": {
+    "brand": "EinStrong",
+    "items": [
+      "ESi ni nini?",
+      "ESi Mama",
+      "ESi Ubinadamu",
+      "ESi Hali ya Hewa",
+      "Kuhusu sisi",
+      "Mawasiliano",
+      "Blogu"
+    ]
+  },
+  "footer": {
+    "brand": "EinStrong",
+    "tagline": "Nguvu ya mmoja",
+    "links": [
+      "ESi Hali ya Hewa",
+      "ESi Ubinadamu",
+      "ESi Mama",
+      "ESi ni nini?",
+      "Kuhusu sisi",
+      "Mawasiliano",
+      "Blogu"
+    ],
+    "copyright": "Wakfu wa EinStrong 2025"
+  },
+  "home": {
+    "hero": [
+      "Dunia moja – Utambulisho mmoja – Mustakabali mmoja",
+      "Fikiria dunia iliyounganishwa na utambulisho mmoja wa kimataifa: utambulisho mmoja kwa kila mtu duniani, tukiungana kukabili changamoto zetu kuu.",
+      "Kitambulisho cha ulimwengu wote cha EinStrong (ESi) kinatuwezesha kupambana kwa pamoja na mabadiliko ya tabianchi na kutokomeza umaskini.",
+      "Pakua programu ya ESi hapa chini na ugeuze nguvu ya mmoja kuwa nguvu ya wote."
+    ]
+  },
+  "whatIsESi": {
+    "intro": [
+      "ESi ni nini?",
+      "EinStrong ID (ESi) ni mfumo wa kimataifa wa utambulisho na uwezeshaji ulioundwa kwa watu wazima kuanzia miaka 18. Unachanganya uthibitishaji salama wa utambulisho na uwezo wa msingi wa kifedha, na hivyo kuwawezesha watu na taasisi kushiriki katika usambazaji wa misaada duniani na miamala ya kiuchumi ya maeneo yao."
+    ],
+    "creatingExpandingAccess": [
+      "Kuunda na kupanua upatikanaji wa ESi",
+      "Mtu mzima yeyote anaweza kuunda akaunti yake ya ESi kupitia programu ya ESi.",
+      "Mtumiaji wa programu ya ESi anaweza pia kuunda akaunti kwa wengine—ikiwemo familia, marafiki au hata jumuiya zisizo na simu janja—hivyo kuifanya ifae waandaaji na timu za kibinadamu.",
+      "Kwa wasio na simu janja, programu inaweza kutoa kadi ya utambulisho ya ESi iliyochapishwa, ikiruhusu upatikanaji wa fedha na ushiriki kwenye mfumo bila kuhitaji ujuzi wa kidijitali.",
+      "Kadi ya ESi iliyochapishwa hufanya kazi kama kadi ya malipo: humwezesha mhusika kutumia au kuhamisha fedha anapofanya miamala na mtu anayetumia programu ya ESi kwenye simu janja—mchoro bora kwa miamala ya kila siku kama vile kununua bidhaa kwa wauzaji wa maeneo ya karibu."
+    ],
+    "secureInclusiveUse": [
+      "Matumizi salama na jumuishi",
+      "Programu ya simu huwezesha watumiaji kupokea na kutuma fedha.",
+      "Kadi ya ESi iliyochapishwa huruhusu malipo kwa wafanyabiashara wa karibu au uhamisho kwa wengine—ikiwafaa hasa walio na upatikanaji mdogo wa teknolojia.",
+      "Uhamisho unaweza kufanyika kati ya wamiliki wa akaunti za ESi waliokaribiana kimahali—iwe kati ya programu mbili za ESi au kati ya programu na kadi ya ESi iliyochapishwa.",
+      "Mfano wa kawaida: wafanyabiashara walio na programu ya ESi kwenye simu zao hupokea malipo kutoka kwa wateja kupitia programu nyingine ya ESi au kadi ya ESi iliyochapishwa."
+    ],
+    "financialCycle": [
+      "Mzunguko wa kifedha wa ESi",
+      "Usambazaji wa fedha: Wakfu wa EinStrong hutuma fedha moja kwa moja kwenye akaunti ya kila mtu wa ESi.",
+      "Uhamisho wa rika-kwa-rika: Wamiliki wa ESi wanaweza kuhamishiana fedha—katika familia au kutoka kwa mteja kwenda kwa mfanyabiashara.",
+      "Kizingiti cha kutoa pesa: Mmiliki wa ESi anapokusanya zaidi ya $1,000 kwenye akaunti (kwa mfano kupitia malipo mengi madogo), hutoa pesa kupitia washirika wetu wa nje (Western Union, MoneyGram) au kuhamisha kwenye akaunti yake ya benki ya ndani.",
+      "Mzunguko unaoendelea: Hatua hizi hurudiwa kila mara, na kuunda ekosistemu endelevu ya usambazaji, mzunguko na utoaji—kwa uwazi na ufuatiliaji kamili."
+    ],
+    "outro": [
+      "Muundo huu huhakikisha fedha zinawafikia watu moja kwa moja, huruhusu matumizi rahisi ya eneo husika, na hutoa njia iliyo wazi na salama ya kugeuza msaada wa kidijitali kuwa athari halisi, hata katika mazingira yenye teknolojia ndogo."
+    ]
+  },
+  "esiMom": {
+    "hero": [
+      "ESi Mama: Kutumia ESi kuwasaidia mama wanaolea peke yao"
+    ],
+    "intro": [
+      "Jukwaa la ESi la Wakfu wa EinStrong huwawezesha mama wanaolea peke yao na watoto wao kupitia msaada wa kifedha wa moja kwa moja na vivutio vya kielimu. Mpango wa EinStrong kwa Mama hutumia ESi kusaidia familia zilizo hatarini kwa njia salama, nafuu na inayoweza kupanuka duniani kote."
+    ],
+    "howItWorks": [
+      "Jinsi inavyofanya kazi",
+      "Msaada wa kifedha wa kila wiki",
+      "Mama: $10 / wiki",
+      "Mtoto: $5 / wiki kwa kila mtoto (Upeo watoto 2 chini ya miaka 18)",
+      "Papo hapo na salama",
+      "Programu yetu ya ESi huunda akaunti salama yenye ulinzi wa kibayometria—kitambulisho cha kipekee cha kimataifa miongoni mwa watu zaidi ya bilioni 8.",
+      "Fedha taslimu huhamishwa moja kwa moja kwenye akaunti ya kila mmoja.",
+      "Rahisi kutumia",
+      "Mama hutumia programu ya ESi au kadi ya utambulisho iliyochapishwa kwa maduka ya eneo lao.",
+      "Sharti la elimu",
+      "Mahudhurio ya kawaida shuleni (chini ya kutokuwepo 10 kwa mwaka)",
+      "Kudumisha ufaulu mzuri."
+    ],
+    "countries": [
+      "Mpango tayari unaendeshwa katika nchi nne:",
+      "Kambodia: familia 1,000+ tangu Machi 2024",
+      "Sudan Kusini: familia 1,000+ tangu Desemba 2024",
+      "Nepal: familia 1,000+ tangu Desemba 2024",
+      "Uganda: familia 1,000+ tangu Mei 2025"
+    ],
+    "closing": [
+      "Kupitia miundombinu ya kidijitali ya ESi, 100% ya michango inawafikia familia moja kwa moja. Muundo huu ni wazi kabisa, wenye ufanisi wa juu na umeundwa kwa upanuzi wa haraka kwenye jamii mpya duniani kote.",
+      "Kwa kuutumia ESi kwa msaada wa kifedha ulio lengwa na unaowajibika, Mpango wa EinStrong kwa Mama huwapatia mama rasilimali, fursa na usalama wanaohitaji kulea watoto wao na kujenga mustakabali thabiti zaidi. Mtazamo huu huimarisha familia na jamii, na kugeuza utoaji wa hisani kuwa athari inayopimika na ya kudumu."
+    ]
+  },
+  "esiHumanity": {
+    "hero": [
+      "ESi Ubinadamu: Kutumia ESi kusambaza fedha kwa walio hatarini"
+    ],
+    "whatIs": [
+      "ESi Ubinadamu ni nini?",
+      "Jukwaa letu la ESi hutoa suluhisho la kisasa la kuwafikishia wakimbizi na makundi mengine yaliyo hatarini msaada wa kifedha moja kwa moja—kwa urahisi, ufanisi na usalama. Huwezesha serikali, asasi zisizo za kiserikali na wafadhili kulenga msaada kulingana na vigezo kama eneo, jinsia, umri au uraia, ili kuhakikisha msaada unawafikia wanaouhitaji zaidi."
+    ],
+    "features": [
+      "Vipengele muhimu",
+      "Uwasilishaji rahisi na ulio lengwa",
+      "Wasimamizi wanaweza kuelekeza fedha haraka na kwa usahihi kwa vikundi vilivyobainishwa kwa kuchagua vigezo ndani ya mfumo wa ESi.",
+      "Utoaji wa kimataifa wenye ufanisi",
+      "Fedha hutumwa kuvuka mipaka kwa wakati halisi moja kwa moja kwenye akaunti za wanufaika, hivyo kuepuka ucheleweshaji na gharama za wapatanishi.",
+      "Usalama na uthibitishaji imara",
+      "Kila akaunti ya ESi inalindwa kwa uthibitishaji wa utambulisho wa kibayometria, kuzuia udanganyifu na madai marudio.",
+      "Uwazi na uwajibikaji",
+      "Kila muamala kwenye jukwaa la ESi hutunzwa kumbukumbu na unaweza kufuatiliwa, ukitoa mkondo kamili wa ukaguzi kwa wafadhili na mashirika."
+    ],
+    "closing": [
+      "Jinsi ESi Ubinadamu inaweza kusaidia shirika lako",
+      "Kwa kutumia mfumo bunifu wa ESi, taasisi za kibinadamu zinaweza kutoa msaada ulio lengwa kwa ufanisi usio wa kawaida. Jukwaa huruhusu usambazaji wa kimataifa ulio salama na bora, huku likiwawezesha wanufaika kutumia msaada huo kwa mahitaji yao ya dharura."
+    ]
+  },
+  "esiClimate": {
+    "hero": [
+      "ESi Hali ya Hewa: Kutumia ESi kupambana na ongezeko la joto duniani"
+    ],
+    "whatIs": [
+      "ESi Hali ya Hewa ni nini?",
+      "Katika Wakfu wa EinStrong, tunaamini wachafuzi wakuu wa mazingira duniani wanapaswa kubeba dhamana ya kifedha kwa uharibifu wanaosababisha—na kwamba fedha hizo zinapaswa kuwanufaisha watu.",
+      "EinStrong ID (ESi) ndicho chombo chetu cha kutimiza maono haya. Kupitia ESi, kampuni za mafuta, gesi, madini na sekta nyingine zenye utoaji mkubwa wa hewa ukaa hulipa ada ya mazingira iliyo wazi kwa kila kitengo cha rasilimali kinachochimbwa. Fedha hizo husambazwa tena kwa haki na kwa uwazi kwa wote kama sehemu ya mpango wetu wa Ustawi wa Msingi wa Ulimwengu (UBI)."
+    ],
+    "ubiBreakdown": {
+      "ubiProgram": {
+        "title": "ESi Hali ya Hewa kama mpango wa kimataifa wa UBI",
+        "sectionOne": {
+          "percent": "80%",
+          "title": "Usambazaji wa UBI duniani",
+          "description": "Angalau 80% ya ada za mazingira zinazokusanywa zinasambazwa moja kwa moja kwa wamiliki wa ESi—kwa usawa na duniani kote."
+        },
+        "sectionTwo": {
+          "percent": "18%",
+          "title": "Mikakati ya uendelevu",
+          "description": "Hadi 18% inaelekezwa kwenye programu za uendelevu, ikijumuisha nishati safi, urejeshaji misitu na uhimili dhidi ya tabianchi."
+        },
+        "sectionThree": {
+          "percent": "2%",
+          "title": "Usimamizi wa programu",
+          "description": "Hadi 2% ya fedha hutumika kuendesha programu; lengo la muda mrefu ni kupunguza kiwango hiki hadi 1% au chini."
+        },
+        "labels": ["UBI", "UENDELEVU", "USIMAMIZI"]
+      }
+    },
+    "principlesPolicy": [
+      "Kanuni na sera zetu",
+      "Fedha za programu zisizotumika husambazwa upya kwa wamiliki wa ESi, tukidumisha kanuni ya kuwaweka watu mbele ya urasimu.",
+      "ESi imeundwa kuwa ya kimataifa, salama na yenye usawa. Kila mtu mzima—bila kujali uraia, kipato au hali ya kisheria—anastahili utambulisho uliothibitishwa na ushiriki wa haki kwenye mgao.",
+      "Kwa kuhamishia mzigo kwa wachafuzi wakuu na kusambaza manufaa moja kwa moja kwa watu, ESi hubadili hatua za tabianchi kuwa mfumo wa kimataifa wa uwajibikaji wa pamoja na manufaa ya pamoja.",
+      "Huu ni mtindo unaojengwa juu ya usawa, uwazi na uwezo wa kupanuka—unaogeuza haki ya mazingira kutoka lengo la kisera kuwa mfumo hai."
+    ]
+  },
+  "aboutUs": {
+    "mission": [
+      "Dhamira yetu",
+      "Wakfu wa EinStrong ni shirika lisilo la faida lililosajiliwa 501(c)(3) lenye makao Marekani, lililojitolea kuendeleza mfumo mmoja wa utambulisho wa kimataifa—EinStrong ID (ESi)—ili kuimarisha hatua za pamoja dhidi ya changamoto kuu za binadamu.",
+      "Kupitia utambulisho wa wote na zana za msingi za kifedha zilizounganishwa, EinStrong huwawezesha watu kushiriki katika mipango ya kukabili mabadiliko ya tabianchi, umaskini na kutokuwepo kwa usawa wa kijamii."
+    ],
+    "caseForGlobalID": [
+      "Hoja ya kuwa na kitambulisho cha kimataifa",
+      "Takribani watu bilioni moja duniani hawana utambulisho rasmi, jambo linalozuia upatikanaji wa huduma muhimu, mifumo ya kifedha na ushiriki wa kiraia.",
+      "Utambulisho unaopatikana kwa wote ni muhimu kwa ukuaji shirikishi wa kiuchumi, usambazaji wa msaada ulio wazi na ushirikiano wenye ufanisi wa kimataifa.",
+      "Kitambulisho cha EinStrong (ESi) huhakikisha kila mtu—bila kujali uraia, hali ya nyaraka au eneo la kijiografia—anatambuliwa, anawezeshwa na kujumuishwa."
+    ],
+    "introducingESi": [
+      "Utambulisho wa EinStrong (ESi)",
+      "EinStrong ID (ESi) ni mfumo wa utambulisho wa wote unaoingiliana vyema na uwezo muhimu wa kifedha.",
+      "Kila ESi humpa mtu utambulisho uliothibitishwa na salama, uliounganishwa na akaunti binafsi kwa miamala ya kifedha.",
+      "Jukwaa huruhusu uhawilishaji wa fedha kutoka juu kwenda chini (kutoka EinStrong moja kwa moja kwa wamiliki wa ESi) na miamala ya rika-kwa-rika kati ya wamiliki.",
+      "Uandikishaji unapatikana kupitia programu ya simu au msimbo wa QR wa kimwili, hivyo kuhakikisha ujumuishaji hata katika maeneo ya mbali."
+    ],
+    "distinguishingFeatures": [
+      "Vipengele vinavyotofautisha EinStrong ID (ESi)",
+      "Ujumuishaji wa kimataifa: Inapatikana kwa watu wazima wote duniani, wakiwemo wakimbizi, wasio na utaifa na wengine wasio na utambulisho wa kisheria.",
+      "Usalama na faragha: Teknolojia bunifu ya kibayometria na itifaki za uthibitishaji huhakikisha utambulisho mmoja kwa mtu mmoja, huku ikilinda data ya kibinafsi.",
+      "Usawa wa wote: Rasilimali zinasambazwa kwa haki miongoni mwa wamiliki wote, bila kujali uraia, mali, itikadi za kisiasa au vigezo vingine.",
+      "Uwezeshaji wa moja kwa moja: Mgao wote wa fedha na miamala ya rika hufanyika ndani ya mfumo wa ESi, hivyo kupunguza wapatanishi na upotevu wa ufanisi wa kiutawala."
+    ],
+    "impactAreas": [
+      "Maeneo ya athari",
+      "Hatua za tabianchi: Kodi/ada za mazingira kwa wachafuzi wakuu husambazwa kwa haki miongoni mwa wamiliki wa ESi, na hivyo kuendeleza uwajibikaji wa kimataifa na mpito wa kijani.",
+      "Msaada dhidi ya umaskini: Msaada wa kifedha hutolewa moja kwa moja kwa watu kupitia akaunti salama za ESi, na hivyo kukuza ujumuishaji wa kiuchumi.",
+      "Mama Kwanza: Msaada wa kifedha ulio lengwa kwa ajili ya mama wanaolea peke yao, ukihusishwa na mahudhurio ya shule na ustawi wa watoto."
+    ],
+    "commitment": [
+      "Ahadi yetu",
+      "Kwa kujenga mtandao thabiti wa utambulisho wa kimataifa na jukwaa la uwezeshaji, Wakfu wa EinStrong unaweka miundombinu ya mustakabali wenye usawa, ustahimilivu na uendelevu—kwa binadamu na sayari."
+    ],
+    "team": {
+      "title": "Timu ya EinStrong",
+      "teamMembers": [
+        [
+          "Steve Cho",
+          "Afisa Mkuu wa Uendeshaji (COO)",
+          "Steve Cho ameongoza chapa za kimataifa kama Samsung, Yahoo! na iHerb. Akiwa EinStrong, anaongoza programu ya ESi na kusimamia programu za kimataifa kama ESi Mama na ESi Ubinadamu."
+        ],
+        [
+          "Myanna Dellinger",
+          "Mkurugenzi wa Ustahimilivu wa Tabianchi na Uendelevu",
+          "Mtaalamu wa sheria ya tabianchi na uendelevu, Msomi wa Fulbright na mhadhiri wa zamani wa sheria; anabuni mikakati ya kukabili changamoto za tabianchi na za kimataifa."
+        ],
+        [
+          "Taewook Kang",
+          "Afisa Mkuu wa Teknolojia (CTO)",
+          "Zaidi ya miaka 20 ya uzoefu wa uhandisi katika adtech, fintech, medtech na AI. Anaongoza timu ya teknolojia ya EinStrong na kujenga suluhu zinazopanuka kwa tabianchi, elimu na UBI."
+        ],
+        [
+          "Hamed Mehrara",
+          "Mkurugenzi, Uhandisi wa Programu",
+          "Miaka 19 ya uzoefu katika programu za benki, fintech na biashara mtandaoni. Anaongoza uhandisi wa jukwaa la EinStrong, akiboreshwa uwezo wa kupanuka na uaminifu wa mfumo."
+        ],
+        [
+          "Matthew Michaels",
+          "Msimamizi wa Fedha (Controller)",
+          "CPA mwenye uzoefu wa zaidi ya miaka 15; anasimamia uendeshaji wa uhasibu na fedha wa EinStrong, anaratibu utoaji wa misaada ya kidijitali na kulinda uadilifu wa kifedha."
+        ],
+        [
+          "Go Mukai",
+          "Mkuu wa Athari Duniani",
+          "Zaidi ya miaka 20 katika fedha na sera endelevu, zikiwemo nafasi katika Benki ya Dunia. EinStrong anaongoza ushirikiano wa kimataifa na uhamasishaji wa rasilimali kuendesha programu."
+        ],
+        [
+          "Gabriel Nyok",
+          "Mkurugenzi, Afrika Mashariki",
+          "Mmoja wa “Wavulana Waliopotea wa Sudan” mwenye uzoefu wa miaka 17 katika sekta isiyo ya faida; anaongoza juhudi za EinStrong Afrika Mashariki na uratibu wa msaada kwa mama 2,000 Sudan Kusini na Uganda."
+        ],
+        [
+          "Larry Pham",
+          "Mhandisi Mkuu",
+          "Zaidi ya miaka 15 katika miundombinu ya wingu na AI; anaendesha mkakati wa teknolojia wa EinStrong na kukuza ubunifu wenye athari za kijamii."
+        ],
+        [
+          "Saurav Rimal",
+          "Mkurugenzi, Nepal",
+          "Zaidi ya miaka 15 katika maendeleo ya jamii; anaongoza miradi ya EinStrong nchini Nepal, anasimamia ushirikiano wa ndani na kuratibu na makao makuu."
+        ],
+        [
+          "Wattanak Yon",
+          "Mkuu, Kambodia",
+          "Mhifadhi wa Afya ya Umma (MSc); anaongoza jitihada za EinStrong Kambodia, akilenga uboreshaji wa mahudhurio ya shule, lishe na kipato cha kaya."
+        ]
+      ]
+    },
+    "legal": [
+      "Masuala ya kisheria",
+      "Mkataba wa Mtumiaji wa Programu ya ESi",
+      "Mkataba wa ESi CBI",
+      "Sera ya Faragha",
+      "Wakfu wa EinStrong una makao yake makuu Pasadena, California, USA",
+      "info@einstrong.org",
+      "301 N Lake Ave, Suite 405",
+      "Pasadena, CA 91101"
+    ]
+  },
+  "blog": {
+    "hero": [
+      "Sasisho za kila mwezi",
+      "Julai 2025"
+    ],
+    "posts": [
+      {
+        "title": "Jinsi msaada wa ESi ulivyobadili maisha ya Sabitri",
+        "subhead": "Barahakshetra, Sunsari | Julai 2025",
+        "blocks": [
+          "Maisha ya Sabitri ylibadilika kabisa baada ya mumewe kusombwa na Mto Koshi miaka minne iliyopita. Akiwa ameachwa na watoto wawili wadogo na akiteseka na ugonjwa sugu wa tumbo, alilazimika kuwapeleka watoto kufanya vibarua ili wapate riziki. Shule haikuwa tena chaguo—kipaumbele kilikuwa chakula mezani.",
+          "Tangu ajiunge na mpango wa ESi Mama, Sabitri hupokea mapato ya msingi ya kila wiki yanayogharamia chakula, mavazi na mahitaji mengine muhimu. Watoto wake hawaendi tena shambani; sasa wanahudhuria shule mara kwa mara kwa mahudhurio bora. Aidha, amejifunza kufuma mianzi, jambo lililomletea chanzo kipya cha kipato na kujivunia. Leo anaota mustakabali bora ambamo watoto wake wanakua wakiwa na fursa, heshima na tumaini."
+        ]
+      },
+      {
+        "title": "Kuwawezesha mama wanaolea peke yao kupitia warsha ya elimu ya fedha",
+        "subhead": "Barahakshetra, Sunsari | Julai 2025",
+        "blocks": [
+          "Huko Barahakshetra, Warsha ya Elimu ya Fedha kwa Mama wa ESi iliwakutanisha mamia ya washiriki ili wajiamini katika kusimamia fedha zao kupitia programu ya simu ya ESi.",
+          "Washiriki walijifunza kufuatilia salio la mapato yao ya msingi ya kila wiki, kutuma na kupokea fedha kupitia programu au kadi za utambulisho za ESi, na kuelewa dhana kuu za elimu ya fedha. Mafunzo yaliwasaidia pia kufuatilia viwango vya ubadilishaji wa dola ya Marekani na kujadiliana vyema na wafanyabiashara wa eneo hilo, ili kuhakikisha bei za haki wanaponunua kwa kutumia programu ya ESi. Mpango huu uliangazia umuhimu wa uelewa wa kifedha na kujitegemea ndani ya jamii ya mama wa ESi."
+        ]
+      }
+    ]
+  }
+}
