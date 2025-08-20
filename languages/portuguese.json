@@ -1,0 +1,287 @@
+{
+  "nav": {
+    "brand": "EinStrong",
+    "items": [
+      "O que é ESi?",
+      "ESi Mãe",
+      "ESi Humanidade",
+      "ESi Clima",
+      "Sobre nós",
+      "Contato",
+      "Blog"
+    ]
+  },
+  "footer": {
+    "brand": "EinStrong",
+    "tagline": "O poder de um",
+    "links": [
+      "ESi Clima",
+      "ESi Humanidade",
+      "ESi Mãe",
+      "O que é ESi?",
+      "Sobre nós",
+      "Contato",
+      "Blog"
+    ],
+    "copyright": "Fundação EinStrong 2025"
+  },
+  "home": {
+    "hero": [
+      "Um mundo – Uma identidade – Um futuro",
+      "Imagine um mundo conectado por uma identidade global única: uma identidade para cada pessoa na Terra, unidas para enfrentar nossos maiores desafios.",
+      "Uma Identidade EinStrong universal (ESi) nos permite lutar juntos contra as mudanças climáticas e acabar com a pobreza.",
+      "Baixe o app ESi abaixo e transforme o poder de um em poder para todos."
+    ]
+  },
+  "whatIsESi": {
+    "intro": [
+      "O que é ESi?",
+      "O EinStrong ID (ESi) é um sistema global de identificação e empoderamento criado para adultos a partir de 18 anos. Ele combina verificação segura de identidade com funcionalidades financeiras básicas, permitindo que pessoas e organizações participem da distribuição global de ajuda e das trocas econômicas locais."
+    ],
+    "creatingExpandingAccess": [
+      "Criando e expandindo o acesso ao ESi",
+      "Qualquer adulto pode criar sua própria conta ESi usando o aplicativo ESi.",
+      "Um usuário do aplicativo ESi também pode criar contas para outras pessoas, incluindo familiares, amigos ou comunidades inteiras sem smartphones—o que o torna ideal para organizadores e equipes humanitárias.",
+      "Para quem não tem smartphone, o app pode gerar um cartão de identificação ESi impresso, permitindo acesso a fundos e participação no sistema sem necessidade de habilidades digitais.",
+      "O cartão ESi impresso funciona como um cartão de débito: ele permite gastar ou transferir fundos ao transacionar com alguém que use o app ESi em um smartphone—configuração ideal para o dia a dia, como comprar de vendedores locais."
+    ],
+    "secureInclusiveUse": [
+      "Uso seguro e inclusivo",
+      "O aplicativo móvel permite receber e enviar fundos.",
+      "O cartão ESi impresso permite gastar em comércios locais ou transferir para outras pessoas—ideal para quem tem acesso limitado à tecnologia.",
+      "Transferências podem ser feitas entre titulares de ESi que estejam fisicamente próximos, seja entre dois apps ESi, seja entre um app e um cartão ESi impresso.",
+      "Caso de uso comum: comerciantes com o app ESi no telefone podem receber pagamentos de clientes via outro app ESi ou cartão ESi impresso."
+    ],
+    "financialCycle": [
+      "Ciclo financeiro do ESi",
+      "Distribuição de fundos: a Fundação EinStrong envia recursos diretamente para cada conta individual de ESi.",
+      "Transferências entre pares: titulares de ESi podem transferir fundos entre si—entre familiares ou de um cliente para um comerciante.",
+      "Limite de saque: quando um titular acumula mais de US$ 1.000 na conta (por exemplo, por vários pagamentos pequenos), ele saca por meio de nossos parceiros externos (Western Union, MoneyGram) ou transfere para seu banco local.",
+      "Ciclo contínuo: esse processo se repete continuamente, criando um ecossistema sustentável de distribuição, circulação e saque, mantendo transparência e rastreabilidade."
+    ],
+    "outro": [
+      "Esse desenho garante que os fundos cheguem diretamente às pessoas, permite uso local flexível e fornece um caminho claro e seguro para transformar ajuda digital em impacto real, mesmo em ambientes de baixa tecnologia."
+    ]
+  },
+  "esiMom": {
+    "hero": [
+      "ESi Mãe: usando o ESi para apoiar mães solteiras"
+    ],
+    "intro": [
+      "A plataforma ESi da Fundação EinStrong empodera mães solteiras e seus filhos por meio de apoio financeiro direto e incentivos educacionais. O Programa EinStrong para Mães usa o ESi para apoiar famílias vulneráveis de forma segura, econômica e escalável globalmente."
+    ],
+    "howItWorks": [
+      "Como funciona",
+      "Ajuda financeira semanal",
+      "Mãe: US$ 10/semana",
+      "Criança: US$ 5/semana por criança (máximo de 2 menores de 18 anos)",
+      "Instantâneo e seguro",
+      "Nosso app ESi cria uma conta biométrica segura—uma identidade global única entre mais de 8 bilhões de pessoas.",
+      "A ajuda em dinheiro é transferida diretamente para cada conta.",
+      "Fácil de usar",
+      "As mães usam o app ESi ou um cartão de identificação impresso nos comércios locais.",
+      "Requisito educacional",
+      "Frequência escolar regular (menos de 10 faltas/ano)",
+      "Manter boas notas."
+    ],
+    "countries": [
+      "O programa já está em operação em quatro países:",
+      "Camboja: mais de 1.000 famílias desde março de 2024",
+      "Sudão do Sul: mais de 1.000 famílias desde dezembro de 2024",
+      "Nepal: mais de 1.000 famílias desde dezembro de 2024",
+      "Uganda: mais de 1.000 famílias desde maio de 2025"
+    ],
+    "closing": [
+      "Com a infraestrutura digital do ESi, 100% dos recursos doados são distribuídos diretamente às famílias. O modelo é totalmente transparente, altamente eficiente e projetado para rápida expansão a novas comunidades em todo o mundo.",
+      "Ao utilizar o ESi para oferecer assistência financeira direcionada e responsável, o Programa EinStrong para Mães fornece às mães os recursos, as oportunidades e a segurança de que precisam para criar seus filhos e construir um futuro mais estável. Essa abordagem fortalece famílias e comunidades, transformando doações em impacto mensurável e duradouro."
+    ]
+  },
+  "esiHumanity": {
+    "hero": [
+      "ESi Humanidade: usando o ESi para distribuir fundos a populações vulneráveis"
+    ],
+    "whatIs": [
+      "O que é ESi Humanidade?",
+      "Nossa plataforma ESi oferece uma solução de ponta para entregar ajuda financeira diretamente a refugiados e outros grupos vulneráveis de maneira simples, eficiente e segura. Ela permite que governos, ONGs e doadores direcionem a assistência por critérios como localização, gênero, idade ou nacionalidade, garantindo que a ajuda chegue a quem mais precisa."
+    ],
+    "features": [
+      "Recursos principais",
+      "Entrega simples e direcionada",
+      "Administradores podem direcionar recursos de forma rápida e precisa a grupos definidos selecionando critérios dentro do sistema ESi.",
+      "Desembolso global eficiente",
+      "Fundos são enviados em tempo real, através de fronteiras, diretamente às contas dos destinatários, evitando atrasos e custos de intermediários.",
+      "Segurança e verificação robustas",
+      "Cada conta ESi é protegida com autenticação biométrica de identidade, prevenindo fraudes e solicitações duplicadas.",
+      "Transparência e prestação de contas",
+      "Cada transação na plataforma ESi é registrada e rastreável, fornecendo um trilho de auditoria completo para doadores e organizações."
+    ],
+    "closing": [
+      "Como o ESi Humanidade pode ajudar sua organização",
+      "Ao aproveitar o sistema inovador do ESi, agências humanitárias podem fornecer ajuda direcionada com eficiência inédita. A plataforma permite distribuição global segura e eficiente, enquanto capacita os beneficiários a usar a assistência para suas necessidades mais urgentes."
+    ]
+  },
+  "esiClimate": {
+    "hero": [
+      "ESi Clima: usando o ESi para combater o aquecimento global"
+    ],
+    "whatIs": [
+      "O que é ESi Clima?",
+      "Na Fundação EinStrong, acreditamos que os maiores poluidores do mundo devem ser responsabilizados financeiramente pelos danos ambientais—e que esses recursos devem beneficiar as pessoas.",
+      "O EinStrong ID (ESi) é nosso mecanismo para tornar essa visão realidade. Por meio do ESi, empresas de petróleo, gás, mineração e outros setores de altas emissões pagam uma taxa ambiental clara por cada unidade de recurso extraída. Esses fundos são redistribuídos de forma equitativa e transparente a todos como parte do nosso programa global de Renda Básica Universal (RBU)."
+    ],
+    "ubiBreakdown": {
+      "ubiProgram": {
+        "title": "ESi Clima como um programa global de RBU",
+        "sectionOne": {
+          "percent": "80%",
+          "title": "Distribuição global da RBU",
+          "description": "Pelo menos 80% das taxas ambientais arrecadadas são redistribuídas diretamente a titulares de ESi—de modo igualitário e global."
+        },
+        "sectionTwo": {
+          "percent": "18%",
+          "title": "Programas de sustentabilidade",
+          "description": "Até 18% destinam-se a programas de sustentabilidade, como energia limpa, reflorestamento e adaptação climática."
+        },
+        "sectionThree": {
+          "percent": "2%",
+          "title": "Administração do programa",
+          "description": "Até 2% dos recursos são usados na administração do programa, com meta de longo prazo de reduzir essa parcela a 1% ou menos."
+        },
+        "labels": ["RBU", "SUSTENTABILIDADE", "ADMINISTRAÇÃO"]
+      }
+    },
+    "principlesPolicy": [
+      "Nossos princípios e política",
+      "Recursos não utilizados do programa são redistribuídos aos titulares de ESi, mantendo o princípio de priorizar pessoas sobre a burocracia.",
+      "O ESi é projetado para ser globalmente inclusivo, seguro e equitativo. Todo adulto, independentemente de nacionalidade, renda ou situação legal, tem direito a uma identidade verificada e a participação equitativa nas distribuições.",
+      "Ao transferir o ônus aos principais poluidores e distribuir os benefícios diretamente às pessoas, o ESi transforma a ação climática em um sistema global de responsabilidade compartilhada e benefício coletivo.",
+      "É um modelo baseado em equidade, transparência e escala—que transforma justiça ambiental de um objetivo político em um sistema vivo."
+    ]
+  },
+  "aboutUs": {
+    "mission": [
+      "Nossa missão",
+      "A Fundação EinStrong é uma organização sem fins lucrativos registrada 501(c)(3) com sede nos Estados Unidos, comprometida em avançar um sistema unificado de identidade global—o EinStrong ID (ESi)—para fortalecer a ação coletiva diante dos maiores desafios da humanidade.",
+      "Por meio de uma identidade universal e ferramentas financeiras básicas integradas, a EinStrong empodera as pessoas a participarem de iniciativas que enfrentam as mudanças climáticas, a pobreza e a desigualdade social."
+    ],
+    "caseForGlobalID": [
+      "O caso para uma identidade global",
+      "Cerca de um bilhão de pessoas no mundo carecem de identificação formal, o que limita o acesso a serviços essenciais, sistemas financeiros e participação cívica.",
+      "Uma identidade universalmente acessível é fundamental para alcançar crescimento econômico inclusivo, distribuição transparente de ajuda e colaboração internacional eficaz.",
+      "A Identidade EinStrong (ESi) garante que todas as pessoas—independentemente de nacionalidade, situação documental ou localização geográfica—sejam reconhecidas, empoderadas e incluídas."
+    ],
+    "introducingESi": [
+      "Apresentando o EinStrong ID (ESi)",
+      "O EinStrong ID (ESi) é um sistema de identidade universal que se integra perfeitamente a capacidades financeiras essenciais.",
+      "Cada ESi fornece às pessoas uma identidade verificada e protegida, vinculada a uma conta pessoal para interação financeira.",
+      "A plataforma permite transferências descendentes (da EinStrong diretamente aos titulares de ESi) e transações entre pares entre titulares.",
+      "A inscrição é acessível por um aplicativo móvel ou um código QR físico, garantindo inclusão mesmo em regiões remotas."
+    ],
+    "distinguishingFeatures": [
+      "Características distintivas do EinStrong ID (ESi)",
+      "Inclusão global: disponível para todos os adultos no mundo, incluindo refugiados, apátridas e outros sem identidade legal.",
+      "Segurança e privacidade: tecnologia biométrica avançada e protocolos de verificação garantem uma identidade por pessoa, protegendo os dados pessoais.",
+      "Equidade universal: recursos são distribuídos de forma equitativa entre todos os titulares, independentemente de nacionalidade, riqueza, filiação política ou outros fatores.",
+      "Empoderamento direto: todas as distribuições financeiras e as interações entre pares ocorrem diretamente dentro do sistema ESi, minimizando intermediários e ineficiências administrativas."
+    ],
+    "impactAreas": [
+      "Áreas de impacto",
+      "Ação climática: taxas ambientais sobre grandes poluidores são redistribuídas equitativamente entre titulares de ESi, promovendo responsabilidade global e transição verde.",
+      "Apoio contra a pobreza: assistência financeira é entregue diretamente às pessoas por meio de contas ESi seguras, promovendo inclusão econômica.",
+      "Mães em primeiro lugar: apoio financeiro direcionado para mães solteiras, condicionado à frequência escolar e ao bem-estar das crianças."
+    ],
+    "commitment": [
+      "Nosso compromisso",
+      "Ao criar uma rede global de identidade confiável e uma plataforma de empoderamento, a Fundação EinStrong está construindo a infraestrutura para um futuro mais justo, resiliente e sustentável—tanto para a humanidade quanto para o planeta."
+    ],
+    "team": {
+      "title": "Equipe EinStrong",
+      "teamMembers": [
+        [
+          "Steve Cho",
+          "Diretor de Operações (COO)",
+          "Steve Cho liderou marcas globais como Samsung, Yahoo! e iHerb. Na EinStrong, ele lidera o app ESi e supervisiona programas globais como ESi Mãe e ESi Humanidade."
+        ],
+        [
+          "Myanna Dellinger",
+          "Diretora de Resiliência Climática e Sustentabilidade",
+          "Especialista em direito climático e sustentabilidade, bolsista Fulbright e ex-professora de direito; desenvolve estratégias para enfrentar desafios climáticos e globais."
+        ],
+        [
+          "Taewook Kang",
+          "Diretor de Tecnologia (CTO)",
+          "Mais de 20 anos de experiência em engenharia em adtech, fintech, healthtech e IA. Lidera a equipe de tecnologia da EinStrong e desenvolve soluções escaláveis para clima, educação e RBU."
+        ],
+        [
+          "Hamed Mehrara",
+          "Diretor de Engenharia de Software",
+          "19 anos de experiência em software para bancos, fintech e e-commerce. Lidera a engenharia de plataforma da EinStrong, aprimorando escalabilidade e confiabilidade."
+        ],
+        [
+          "Matthew Michaels",
+          "Controller",
+          "Contador público certificado com mais de 15 anos de experiência; gerencia operações contábeis e financeiras, supervisiona desembolsos de ajuda digital e garante integridade fiscal."
+        ],
+        [
+          "Go Mukai",
+          "Líder Global de Impacto",
+          "Mais de 20 anos em finanças e políticas sustentáveis, com passagens pelo Banco Mundial. Na EinStrong, lidera parcerias globais e mobilização de recursos para impulsionar programas."
+        ],
+        [
+          "Gabriel Nyok",
+          "Diretor, África Oriental",
+          "Um dos “Garotos Perdidos do Sudão”, com 17 anos no setor sem fins lucrativos; lidera iniciativas da EinStrong na África Oriental e gerencia o apoio a 2.000 mães solteiras no Sudão do Sul e em Uganda."
+        ],
+        [
+          "Larry Pham",
+          "Engenheiro Principal",
+          "Mais de 15 anos em infraestrutura em nuvem e IA; impulsiona a estratégia tecnológica da EinStrong e fomenta inovação com impacto social."
+        ],
+        [
+          "Saurav Rimal",
+          "Diretor, Nepal",
+          "Mais de 15 anos em desenvolvimento comunitário; lidera projetos da EinStrong no Nepal, gerencia parcerias locais e assegura a coordenação com a sede."
+        ],
+        [
+          "Wattanak Yon",
+          "Chefe, Camboja",
+          "Mestre em Saúde Pública; lidera as iniciativas da EinStrong no Camboja com foco em frequência escolar, nutrição e renda familiar."
+        ]
+      ]
+    ],
+    "legal": [
+      "Jurídico",
+      "Contrato de Usuário do App ESi",
+      "Contrato ESi CBI",
+      "Política de Privacidade",
+      "A Fundação EinStrong tem sede em Pasadena, Califórnia, EUA",
+      "info@einstrong.org",
+      "301 N Lake Ave, Suite 405",
+      "Pasadena, CA 91101"
+    ]
+  },
+  "blog": {
+    "hero": [
+      "Atualizações mensais",
+      "Julho de 2025"
+    ],
+    "posts": [
+      {
+        "title": "Como o apoio do ESi transformou a vida de Sabitri",
+        "subhead": "Barahakshetra, Sunsari | julho de 2025",
+        "blocks": [
+          "A vida de Sabitri mudou para sempre quando seu marido foi levado pelo rio Koshi há quatro anos. Sozinha com dois filhos pequenos e sofrendo de uma doença estomacal crônica, ela foi obrigada a enviar as crianças para o trabalho diário a fim de sobreviver. A escola deixou de ser opção; o foco era pôr comida na mesa.",
+          "Desde que ingressou no programa ESi Mãe, Sabitri recebe uma renda básica semanal que cobre alimentação, roupas e outras necessidades essenciais. Seus filhos não trabalham mais no campo; agora frequentam a escola regularmente, com presença exemplar. Sabitri também aprendeu a trançar bambu, o que lhe trouxe uma nova fonte de renda e orgulho. Hoje, ela sonha com um futuro melhor, no qual seus filhos cresçam com oportunidades, dignidade e esperança."
+        ]
+      },
+      {
+        "title": "Capacitando mães solteiras por meio de uma oficina de educação financeira",
+        "subhead": "Barahakshetra, Sunsari | julho de 2025",
+        "blocks": [
+          "Em Barahakshetra, a Oficina de Educação Financeira para Mães do ESi reuniu centenas de participantes para que se sentissem confiantes na gestão de suas finanças por meio do app móvel do ESi.",
+          "As participantes aprenderam a acompanhar seus saldos semanais de renda básica, a enviar e receber fundos pelo app ou pelos cartões de identificação ESi e a compreender conceitos-chave de educação financeira. A capacitação também as ajudou a monitorar as taxas de câmbio do dólar americano e a negociar com mais eficácia com comércios locais, garantindo preços justos ao comprar com o app ESi. A iniciativa ressaltou a importância da consciência financeira e da autonomia dentro da comunidade de mães do ESi."
+        ]
+      }
+    ]
+  }
+}
